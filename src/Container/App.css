@@ -1,0 +1,32 @@
+.main-div{
+  border: 10px solid green;
+  margin: auto;
+  margin-top: 50px;
+  height: 600px;
+  width: 700px;
+  font-size: 19px;
+}
+.textField{
+  color: blue;
+}
+.main-div h2{
+  font-size: 2rem;
+  color:rgb(7, 112, 114);
+  text-align: center;
+}
+.text-box-field{
+  margin-left: 15rem;
+  margin-top: 90px;
+  color: rgb(194, 88, 88);
+  font-weight: 600;
+
+}
+.btn{
+  background-color: #0a8d43;
+    height: 30px;
+    width: 7rem;
+    margin: 40px;
+    border: none;
+    color: white;
+  
+}
